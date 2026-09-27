@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Vineet 👋
 
-<!--
-**vineetchaturvedi29/vineetchaturvedi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN Stack | Node.js | React.js | Next.js
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer with 4+ years of experience building
+web applications and backend systems using JavaScript/TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- Socket.io
+
+**Database**
+- MongoDB
+- PostgreSQL
+- MySQL
+
+**Tools & DevOps**
+- Docker
+- Git
+- GitHub
+- AWS
+- CI/CD
+
+### 🚀 What I Work With
+
+- Building scalable REST APIs
+- Full-stack web applications
+- Authentication and authorization
+- Database design and integration
+- Background jobs and queues
+- Real-time applications
+- API documentation and testing
+
+### 📌 Featured Projects
+
+Coming soon...
+
+### 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
